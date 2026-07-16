@@ -34,7 +34,7 @@ AI Engineer • Machine Learning • Deep Learning • Computer Vision
 
 ---
 
-<img align="right" width="370" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzB2dTFibWk3eXRlMnA0ZWFxNnZpdXQwYW80YXRja2l2a3o0c3BqYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif"/>
+<img align="right" width="400" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
 ## 🚀 About Me
 
