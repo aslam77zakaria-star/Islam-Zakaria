@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="AI Banner"/>
+
+<img width="100%" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>
+
 </p>
+
+<h1 align="center">Islam Zakaria</h1>
+
+<h3 align="center">
+Artificial Intelligence Engineer
+</h3>
+
 
 <h1 align="center">
 Hi 👋 I'm Islam Zakaria
