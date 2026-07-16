@@ -93,3 +93,119 @@ Goal:
 <img src="https://komarev.com/ghpvc/?username=aslam77zakaria-star&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
 
 </p>
+
+# 💻 Tech Stack
+
+<div align="center">
+
+## 🤖 Artificial Intelligence
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HuggingFace-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+</div>
+
+---
+
+# 💻 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,c,js,html,css"/>
+
+</div>
+
+---
+
+# 🛠 Frameworks & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,linux,docker,fastapi,flask"/>
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| Machine Learning | 🟩🟩🟩🟩🟩 |
+| Deep Learning | 🟩🟩🟩🟨⬜ |
+| Computer Vision | 🟩🟩🟩🟟⬜ |
+| NLP | 🟩🟩🟨⬜⬜ |
+| LLMs | 🟩🟩🟨⬜⬜ |
+| AI Agents | 🟩🟨⬜⬜⬜ |
+| MLOps | 🟩⬜⬜⬜⬜ |
+
+</div>
+
+---
+
+# 🚀 Areas of Interest
+
+```text
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+🔥 Deep Learning
+
+👁 Computer Vision
+
+💬 Natural Language Processing
+
+📊 Data Science
+
+⚡ AI Agents
+
+🧬 Bio AI
+
+📈 Data Analytics
+
+🖥 Backend Development
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build AI Portfolio
+- ✅ Publish Open Source Projects
+- 🔄 Master Deep Learning
+- 🔄 Build LLM Applications
+- 🔄 Learn RAG
+- 🔄 Learn MLOps
+- 🔄 Contribute to Open Source
+- 🔄 Land AI Internship
+- 🔄 Become AI Engineer
+
+---
+
+<div align="center">
+
+## ✨ Favorite Quote
+
+> **"Artificial Intelligence is not about replacing humans. It's about amplifying human potential."**
+
+</div>
+
+---
