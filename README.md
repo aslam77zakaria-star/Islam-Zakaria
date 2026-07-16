@@ -34,16 +34,12 @@ AI Engineer • Machine Learning • Deep Learning • Computer Vision
 
 ---
 
-<td width="40%" align="center" valign="middle">
+## 🚀 About Me
 
-<br><br><br><br><br>
+<table>
+<tr>
 
-<img width="340"
-src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
-
-</td>
-
-# 🚀 About Me
+<td width="60%">
 
 ```yaml
 Name: Islam Zakaria
@@ -74,7 +70,17 @@ Goal:
   Become a Professional AI Engineer
 ```
 
-<br>
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img width="340"
+src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
