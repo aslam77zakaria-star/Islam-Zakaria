@@ -314,39 +314,55 @@ Goal:
 </div>
 
 ---
+## 🧠 AI Expertise
 
-# 🧠 AI Engineering Roadmap
+<table>
+<tr>
 
-```text
-                AI Engineer
+<td align="center" width="33%">
 
-                     │
+### 🤖 Machine Learning
 
-     ┌───────────────┼───────────────┐
+✔ Scikit-learn
 
-     │               │               │
+✔ XGBoost
 
-Machine Learning  Deep Learning  Computer Vision
+✔ LightGBM
 
-     │               │               │
+✔ CatBoost
 
-Scikit-learn     TensorFlow      OpenCV
+</td>
 
-     │               │               │
+<td align="center" width="33%">
 
-PyTorch          CNNs            YOLO
+### 🧠 Deep Learning
 
-     │               │               │
+✔ TensorFlow
 
-NLP             Transformers     OCR
+✔ PyTorch
 
-     │               │               │
+✔ Keras
 
-LLMs             RAG             AI Agents
+✔ CNN • RNN • GAN
 
-```
+</td>
 
----
+<td align="center" width="33%">
+
+### 👁️ Computer Vision
+
+✔ OpenCV
+
+✔ YOLO
+
+✔ OCR
+
+✔ Image Segmentation
+
+</td>
+
+</tr>
+</table>
 
 # ⚙️ Technologies I Work With
 
