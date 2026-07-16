@@ -209,3 +209,87 @@ Goal:
 </div>
 
 ---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslam77zakaria-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslam77zakaria-star&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aslam77zakaria-star&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aslam77zakaria-star&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aslam77zakaria-star&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aslam77zakaria-star/aslam77zakaria-star/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 💡 Coding Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslam77zakaria-star&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📉 Extra Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aslam77zakaria-star&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aslam77zakaria-star&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aslam77zakaria-star&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslam77zakaria-star&theme=tokyonight&utcOffset=2"/>
+
+</div>
+
+---
