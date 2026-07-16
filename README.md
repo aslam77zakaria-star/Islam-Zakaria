@@ -314,56 +314,25 @@ Goal:
 </div>
 
 ---
-## 🧠 AI Expertise
+## ⚡ AI Technologies
 
-<table>
-<tr>
+<p align="center">
 
-<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Machine%20Learning-00E5FF?style=for-the-badge"/>
 
-### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/Deep%20Learning-7B2FF7?style=for-the-badge"/>
 
-✔ Scikit-learn
+<img src="https://img.shields.io/badge/Computer%20Vision-00FFA3?style=for-the-badge"/>
 
-✔ XGBoost
+<img src="https://img.shields.io/badge/NLP-FF4D4D?style=for-the-badge"/>
 
-✔ LightGBM
+<img src="https://img.shields.io/badge/LLMs-FFB000?style=for-the-badge"/>
 
-✔ CatBoost
+<img src="https://img.shields.io/badge/RAG-9C27B0?style=for-the-badge"/>
 
-</td>
+<img src="https://img.shields.io/badge/AI%20Agents-0099FF?style=for-the-badge"/>
 
-<td align="center" width="33%">
-
-### 🧠 Deep Learning
-
-✔ TensorFlow
-
-✔ PyTorch
-
-✔ Keras
-
-✔ CNN • RNN • GAN
-
-</td>
-
-<td align="center" width="33%">
-
-### 👁️ Computer Vision
-
-✔ OpenCV
-
-✔ YOLO
-
-✔ OCR
-
-✔ Image Segmentation
-
-</td>
-
-</tr>
-</table>
-
+</p>
 # ⚙️ Technologies I Work With
 
 <div align="center">
