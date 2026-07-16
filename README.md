@@ -1,16 +1,8 @@
 <p align="center">
 
-<img width="100%" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslam77zakaria-star&theme=tokyonight"/>
 
 </p>
-
-<h1 align="center">Islam Zakaria</h1>
-
-<h3 align="center">
-Artificial Intelligence Engineer
-</h3>
-
-
 <h1 align="center">
 Hi 👋 I'm Islam Zakaria
 </h1>
