@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:6C63FF,30:00E5FF,70:00FFA3,100:7B2FF7&text=Islam%20Zakaria&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=58"/>
-
-</div>
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="AI Banner"/>
+</p>
 
 <h1 align="center">
 Hi 👋 I'm Islam Zakaria
