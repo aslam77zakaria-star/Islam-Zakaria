@@ -34,10 +34,14 @@ AI Engineer • Machine Learning • Deep Learning • Computer Vision
 
 ---
 
-<br><br><br>
+<td width="40%" align="center" valign="middle">
 
-<img align="right" width="400" alt="Coding"
-src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<br><br><br><br><br>
+
+<img width="340"
+src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+</td>
 
 # 🚀 About Me
 
