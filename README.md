@@ -34,18 +34,9 @@ AI Engineer • Machine Learning • Deep Learning • Computer Vision
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 # 🚀 About Me
-
-- 🎓 Artificial Intelligence Student
-- 🤖 AI Engineer
-- 🧠 Machine Learning Enthusiast
-- 👁️ Computer Vision Developer
-- 📚 Currently learning LLMs & AI Agents
-- 💡 Building real-world AI applications
-
-## 🚀 About Me
 
 ```yaml
 Name: Islam Zakaria
