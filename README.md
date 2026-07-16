@@ -1,8 +1,52 @@
-<p align="center">
+## 🧠 AI Expertise
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslam77zakaria-star&theme=tokyonight"/>
+<table>
+<tr>
 
-</p>
+<td align="center" width="33%">
+
+### 🤖 Machine Learning
+
+✔ Scikit-learn
+
+✔ XGBoost
+
+✔ LightGBM
+
+✔ CatBoost
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Deep Learning
+
+✔ TensorFlow
+
+✔ PyTorch
+
+✔ Keras
+
+✔ CNN • RNN • GAN
+
+</td>
+
+<td align="center" width="33%">
+
+### 👁️ Computer Vision
+
+✔ OpenCV
+
+✔ YOLO
+
+✔ OCR
+
+✔ Image Segmentation
+
+</td>
+
+</tr>
+</table>
 <h1 align="center">
 Hi 👋 I'm Islam Zakaria
 </h1>
