@@ -291,5 +291,133 @@ Goal:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslam77zakaria-star&theme=tokyonight&utcOffset=2"/>
 
 </div>
+# 🚀 Featured AI Projects
+
+<div align="center">
+
+<a href="https://github.com/aslam77zakaria-star">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=aslam77zakaria-star&repo=YOUR_REPOSITORY_1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/aslam77zakaria-star">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=aslam77zakaria-star&repo=YOUR_REPOSITORY_2&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/aslam77zakaria-star">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=aslam77zakaria-star&repo=YOUR_REPOSITORY_3&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/aslam77zakaria-star">
+<img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=aslam77zakaria-star&repo=YOUR_REPOSITORY_4&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+---
+
+# 🧠 AI Engineering Roadmap
+
+```text
+                AI Engineer
+
+                     │
+
+     ┌───────────────┼───────────────┐
+
+     │               │               │
+
+Machine Learning  Deep Learning  Computer Vision
+
+     │               │               │
+
+Scikit-learn     TensorFlow      OpenCV
+
+     │               │               │
+
+PyTorch          CNNs            YOLO
+
+     │               │               │
+
+NLP             Transformers     OCR
+
+     │               │               │
+
+LLMs             RAG             AI Agents
+
+```
+
+---
+
+# ⚙️ Technologies I Work With
+
+<div align="center">
+
+| AI | Backend | Database | Tools |
+|:---:|:---:|:---:|:---:|
+| 🤖 Machine Learning | ⚡ FastAPI | 🗄️ SQLite | 🐍 Python |
+| 🧠 Deep Learning | 🌐 Flask | 🐘 PostgreSQL | 🐙 Git |
+| 👁️ Computer Vision | 🔌 REST API | 🔥 Firebase | 💻 VS Code |
+| 💬 NLP | ☁️ Docker | 🍃 MongoDB | 🐧 Linux |
+
+</div>
+
+---
+
+# 🌟 Open Source Philosophy
+
+```python
+class AIEngineer:
+
+    def __init__(self):
+        self.name = "Islam Zakaria"
+        self.role = "AI Engineer"
+
+    def interests(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "Computer Vision",
+            "LLMs",
+            "AI Agents",
+            "Data Science"
+        ]
+
+    def current_goal(self):
+        return "Build AI that solves real-world problems."
+
+me = AIEngineer()
+
+print(me.current_goal())
+```
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:aslam77zakaria@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/eslam-mohamed-606987378">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aslam77zakaria-star">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,30:00E5FF,70:00FFA3,100:7B2FF7&height=140&section=footer"/>
+
+</div>
 
 ---
