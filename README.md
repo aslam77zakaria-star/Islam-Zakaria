@@ -34,7 +34,7 @@ AI Engineer • Machine Learning • Deep Learning • Computer Vision
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 ## 🚀 About Me
 
 ```yaml
